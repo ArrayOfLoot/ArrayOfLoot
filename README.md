@@ -23,13 +23,34 @@
 
 <br><br>
 
+<!-- 🌸 GitHub Summary Cards -->
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=LuluKitsune&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuluKitsune&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <img
+    align="center"
+    alt="Profile Details"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuluKitsune&theme=omni"
+  />
   <br><br>
-  <img align="center" alt="Profile Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuluKitsune&theme=omni"/>
+  <img
+    align="center"
+    height="160"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuluKitsune&theme=omni"
+  />
+  <img
+    align="center"
+    height="160"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuluKitsune&theme=omni"
+  />
+  <br><br>
+  <img
+    align="center"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuluKitsune&theme=omni&utcOffset=-3"
+  />
 </div>
 
+<br><br>
+
+<!-- 🌸 Tech Stack -->
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -47,21 +68,15 @@
 
 <br><br>
 
-<details align="center">  
+<details align="center">
   <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
+    <samp><b>More Info</b></samp>
   </summary>
-  
+
 <br>
 
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
+  <samp><b>Contact me:</b></samp>
   <br><br>
 
   [![Itch.io](https://img.shields.io/badge/Itch.io-6e3a5d?style=for-the-badge&logo=itchdotio&logoColor=fff)](https://luchie.itch.io/)
@@ -71,28 +86,27 @@
   [![Notion](https://img.shields.io/badge/Notion-6e3a5d?style=for-the-badge&logo=notion&logoColor=fff)](https://www.notion.so/c4b1e64ca6d04a65a1ecd10cb6f2cd66)
 </div>
 
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://luchie.itch.io/">itch.io</a> ⊹
-        <a href="https://www.instagram.com/arrayofloot/">instagram</a> ⊹
-        <a href="https://steamcommunity.com/profiles/76561199705770640/">steam</a> ⊹
-        <a href="https://www.linkedin.com/in/lu-chie/">linkedin</a> ⊹
-        <a href="https://www.notion.so/c4b1e64ca6d04a65a1ecd10cb6f2cd66">notion</a> ♡
-      </samp>
-  </p>
-</div>
-
 <br>
 </details>
 
-##
-
 <br>
 
+<!-- 🌸 GIFs -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="GIF 1" width="250" height="250" style="margin-right: 10px; object-fit: cover;">
-  <img src="https://64.media.tumblr.com/37aa3a0fc78a86820d1132976e6db281/868042549e86eb0a-68/s500x750/fba6dd5d35f254191f474e0ddf50ab36d6d557a2.gif" alt="GIF 2" width="250" height="250" style="margin-left: 10px; object-fit: cover;">
+  <img
+    src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"
+    alt="GIF 1"
+    width="250"
+    height="250"
+    style="margin-right: 10px; object-fit: cover;"
+  />
+  <img
+    src="https://64.media.tumblr.com/37aa3a0fc78a86820d1132976e6db281/868042549e86eb0a-68/s500x750/fba6dd5d35f254191f474e0ddf50ab36d6d557a2.gif"
+    alt="GIF 2"
+    width="250"
+    height="250"
+    style="margin-left: 10px; object-fit: cover;"
+  />
 </div>
 
 <br>
