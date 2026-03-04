@@ -28,23 +28,23 @@
   <img
     align="center"
     alt="Profile Details"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuluKitsune&theme=omni"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArrayOfLoot&theme=omni"
   />
   <br><br>
   <img
     align="center"
     height="160"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuluKitsune&theme=omni"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArrayOfLoot&theme=omni"
   />
   <img
     align="center"
     height="160"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuluKitsune&theme=omni"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArrayOfLoot&theme=omni"
   />
   <br><br>
   <img
     align="center"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuluKitsune&theme=omni&utcOffset=-3"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArrayOfLoot&theme=omni&utcOffset=-3"
   />
 </div>
 
@@ -92,21 +92,22 @@
 <br>
 
 <!-- 🌸 GIFs -->
-<div align="center">
-  <img
-    src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"
-    alt="GIF 1"
-    width="250"
-    height="250"
-    style="margin-right: 10px; object-fit: cover;"
-  />
-  <img
-    src="https://64.media.tumblr.com/37aa3a0fc78a86820d1132976e6db281/868042549e86eb0a-68/s500x750/fba6dd5d35f254191f474e0ddf50ab36d6d557a2.gif"
-    alt="GIF 2"
-    width="250"
-    height="250"
-    style="margin-left: 10px; object-fit: cover;"
-  />
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+
+  <div style="width:250px; height:250px; overflow:hidden;">
+    <img
+      src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"
+      style="width:100%; height:100%; object-fit:cover;"
+    />
+  </div>
+
+  <div style="width:250px; height:250px; overflow:hidden;">
+    <img
+      src="https://64.media.tumblr.com/37aa3a0fc78a86820d1132976e6db281/868042549e86eb0a-68/s500x750/fba6dd5d35f254191f474e0ddf50ab36d6d557a2.gif"
+      style="width:100%; height:100%; object-fit:cover;"
+    />
+  </div>
+
 </div>
 
 <br>
